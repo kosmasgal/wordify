@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import argparse
-from generate_wordcloud import generate_artist_wordcloud
+from .generate_wordcloud import generate_artist_wordcloud
 
 def main():
     parser = argparse.ArgumentParser(
@@ -9,13 +9,13 @@ def main():
         epilog="""
 Examples:
     # Generate word cloud for all songs by an artist
-    python wordify.py "Iron Maiden"
+    wordify "Iron Maiden"
     
     # Generate word cloud for a specific album
-    python wordify.py "Iron Maiden" --album "Powerslave"
+    wordify "Iron Maiden" --album "Powerslave"
     
     # Generate word cloud with specified language for stop words
-    python wordify.py "Pirates City" --lang "greek"
+    wordify "Pirates City" --lang "greek"
     """
     )
     

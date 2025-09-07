@@ -2,7 +2,7 @@ import json
 import re
 import unicodedata
 from collections import defaultdict
-from fetch_artist_lyrics import fetch_artist_data
+from .fetch_artist_lyrics import fetch_artist_data
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import nltk

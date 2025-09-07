@@ -2,8 +2,8 @@ import json
 import os
 import sys
 import requests
-from spotify import sp
-from youtube_lyrics import get_youtube_lyrics
+from .spotify import sp
+from .youtube_lyrics import get_youtube_lyrics
 
 
 def get_cached_lyrics(track_id, cache_file):
@@ -176,20 +176,3 @@ def fetch_artist_data(artist_name):
         print(f"Errors encountered: {stats['errors']} tracks")
 
     return artist_data
-
-
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print('Usage: python fetch_artist_lyrics.py "<Artist Name>"')
-        sys.exit(1)
-
-    artist_name_query = sys.argv[1]
-
-    artist_lyrics_data = fetch_artist_data(artist_name_query)
-
-    if artist_lyrics_data:
-        # Save to a JSON file
-        file_name = f"{artist_name_query.replace(' ', '_').lower()}_lyrics.json"
-        with open(file_name, "w", encoding="utf-8") as f:
-            json.dump(artist_lyrics_data, f, indent=4, ensure_ascii=False)
-        print(f"\nSuccessfully saved all lyrics to {file_name}")

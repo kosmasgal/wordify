@@ -1,5 +1,9 @@
 # Wordify
 
+<div align="center">
+  <img src="wordify_logo.png" alt="Wordify Logo" width="400"/>
+</div>
+
 A Python application that generates word clouds from song lyrics, with special support for multilingual (Greek/English) lyrics processing. Based on the implementation of [syrics-web](https://github.com/akashrchandran/syrics-web/tree/master).
 
 ## Features
@@ -16,6 +20,10 @@ A Python application that generates word clouds from song lyrics, with special s
 
 ## Installation
 
+There are two ways to install Wordify:
+
+### Option 1: Install from source
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/kosmasgal/wordify.git
@@ -31,9 +39,26 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-3. Install the required packages:
+3. Install in development mode:
 ```bash
-pip install -r requirements.txt
+pip install -e .
+```
+
+### Option 2: Install directly via pip (coming soon)
+
+```bash
+pip install wordify
+```
+
+### Environment Variables
+
+Before using Wordify, make sure to set up your Spotify API credentials:
+
+1. Create a `.env` file in the project root
+2. Add your Spotify API credentials:
+```
+SPOTIFY_CLIENT_ID=your_client_id_here
+SPOTIFY_CLIENT_SECRET=your_client_secret_here
 ```
 
 ## Usage
@@ -58,6 +83,23 @@ python wordify.py "Artist Name"
 Generate word cloud for a specific album in Greek:
 ```bash
 python wordify.py "Artist Name" --album "Album Name" --lang greek
+```
+
+### Using as a Python Package
+
+You can also use Wordify as a Python package in your own code:
+
+```python
+from wordify import generate_artist_wordcloud
+
+# Generate word cloud for all songs by an artist
+generate_artist_wordcloud("Artist Name")
+
+# Generate word cloud for a specific album in Greek
+generate_artist_wordcloud("Artist Name", album_name="Album Name", language="greek")
+
+# Generate word cloud for all songs with both languages
+generate_artist_wordcloud("Artist Name", language="both")
 ```
 
 ## Configuration
