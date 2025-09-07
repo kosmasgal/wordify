@@ -60,7 +60,7 @@ def get_video_description(video_url):
 def get_youtube_lyrics(track_name, artist_name):
     """Main function to get lyrics from YouTube video description."""
     try:
-        search_query = f"{artist_name} {track_name}"
+        search_query = f"{artist_name} {track_name} lyrics"
         
         # Configure yt-dlp options for search - use ytsearch2 to have a backup option
         ydl_opts = {
