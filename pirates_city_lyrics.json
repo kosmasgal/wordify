@@ -1,0 +1,534 @@
+{
+    "artist_name": "Pirates City",
+    "artist_id": "1ZkPE320UiXz37utdZhCUq",
+    "albums": [
+        {
+            "album_name": "Λώβη",
+            "album_id": "7L9Z7gBw12SORyKkt3bN4o",
+            "release_date": "2023-09-14",
+            "total_tracks": 9,
+            "tracks": [
+                {
+                    "track_name": "Κόλαση",
+                    "track_id": "5sC39znUO4vb9uzmo0rJRV",
+                    "track_number": 1,
+                    "duration_ms": 189780,
+                    "lyrics": "Κόλαση για πάντα\nΤσακώθηκα δεν φταις εσύ εντάξει\nΝεκρές αφίσες, παράνομα ταξίδια\nΔες τώρα το δωμάτιο ανάποδα\n♪\nΑποπροσανατολίζομαι\nΜε λάθος άτομα παρέα κάνουμε\nΗ επαναδιαπραγμάτευση στο λέω δεν μασάμε πια με την καταστολή\nΚοιτούσα πάντοτε την βροχή που ερχόταν\nΓελούσα με μένανε με τους στοίχους που έγραφα\nΖω στα πιο ζόρικα στα ομορφότερα στενά της Αθήνας\nΒουτήξαμε μες στον πλανήτη με όλη την ψυχή μας\nΚαι ήπιαμε όλη την νύχτα απόψε για σένα\nΣε μια γωνιά αυτή η παρέα αντέχει ακόμα\nΘυμήθηκα όλα τα στέκια που έχουμε αράξει\nΚαι βούρκωσα που τώρα δεν είσαι κάπου εδώ\n♪\nΚοιτούσα πάντοτε την βροχή που ερχόταν\nΓελούσα με μένανε με τους στοίχους που έγραφα\nΖω στα πιο ζόρικα στα ομορφότερα στενά της Αθήνας\nΒουτήξαμε μες στον πλανήτη με όλη την ψυχή μας\nΚαι ήπιαμε όλη την νύχτα απόψε για σένα\nΣε μια γωνιά αυτή η παρέα αντέχει ακόμα\nΘυμήθηκα όλα τα στέκια που έχουμε αράξει\nΚαι βούρκωσα που τώρα δεν είσαι κάπου εδώ\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Μέρα Ρόζα",
+                    "track_id": "2RqF1IXfoLK9XvUb9ALyrm",
+                    "track_number": 2,
+                    "duration_ms": 174357,
+                    "lyrics": "Γλιστράω βγαίνω απ' τα λουλούδια\nΦοράω τα σκισμένα μου παπούτσια\nΚατηφόρισα στην πόλη\nΤσάτσοι παντού και αστυνόμοι\nΤα χάνω νιώθω οτι φοβάμαι\nΚαι να που αρχίζω να θυμάμαι\nΌτι με κυνηγάνε όλοι\nΣτην Αλεξία είχε ζόρι\nΓιατί είμαι αρρώστια που γυρίζω\nΌπου χορεύω μεταδίδω\nΚαι στο Στενό να καταλήγω\nΣτα Έπεα μαζί με Νίκο\nΣτην Σπλάντζια στα καφενεία\nΜες στα Χανιά είμαι φασαρία\nΖω και κοιτάζω από τον λόφο κάτω\nΤο λιμάνι να γυρίζει\nΚαι το Φάρο να δακρύζει\nΠάνω απ' την μάγικη αυλή σου\n♪\nΜετράμε κάθε ανοιξή σαν να 'ταν τελευταία\nΠου να 'ναι τώρα αυτή η τρελή μουρλή παλιοπαρέα\nΣτην Πρυτανεία στα σκαλιά της Ρόζα Νέρα\nΠοπο ρε φίλε η θέα είναι ακραία\nΣτην αγορά και στο βαζάκι να 'μαι τάβλα\nΝα κατεβάζουμε τις Χάος και τις Χάρμα\nΑπ' την Χαλέπα στο Δαράτσο γράφουμε για σένα\nΠαντού ανεμίζει αυτή η παλιά πειρατική σημαία\nΖω και κοιτάζω από τον λόφο κάτω\nΤο λιμάνι να γυρίζει\nΚαι το Φάρο να δακρύζει\nΠάνω απ' την μάγικη αυλή σου\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Φαλάσαρνα",
+                    "track_id": "6JMfr6qMfS1RzflgRCyvZv",
+                    "track_number": 3,
+                    "duration_ms": 290069,
+                    "lyrics": "Πώς τρελός είσαι ο επόμενος\nΑλλάζεις σωπαίνεις\nΠαντού είσαι έξαλλος\nΌπως το αίμα απλώνει δυστυχώς\nΣτο θέμα μας όμως είσαι ανυπόφορος\n♪\nΚαι πάλι μπλέξαμε και πέρασε η ώρα\nΌλα πάνε χώρια όλοι βρίσκουν ζόρια\nΚαι πάνω κάτω σκαλοπάτια με ζαλίζεις\nΠαντού χορεύεις και μου την θυμίζεις\nΌμως πάλι ζητάνε το δικό μας το ρυθμό\nΠάλι φοβάμαι να σταματήσω δεν μπορώ\n♪\nΚαι πάλι μπλέξαμε και πέρασε η ώρα\nΌλα πάνε χώρια όλοι βρίσκουν ζόρια\nΚαι πάνω κάτω σκαλοπάτια με ζαλίζεις\nΠαντού χορεύεις και μου την θυμίζεις\nΌμως πάλι ζητάνε το δικό μας το ρυθμό\nΠάλι φοβάμαι να σταματήσω δεν μπορώ\n♪\nΠάλι ζητάνε το δικό μας το ρυθμό\nΠάλι ζητάνε κοινωνικό κανιβαλισμό\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "12 Ώρες Αδύναμος",
+                    "track_id": "6yEvTKBNYuNfFurxOlxYyQ",
+                    "track_number": 4,
+                    "duration_ms": 151453,
+                    "lyrics": "Ταιριάζω μέσα στην πόλη\nΕίμαι σωσίβιο που συνέχεια επιπλέω\nΈνα ποτήρι σπάει και μου θυμίζει\nΌτι είμαι ακόμα ζωντανός και ανασαίνω\nΚαι όλοι μέσα στην νύχτα\nΟυρλιάζουν σαν τα σφαγιασμένα κατσίκια\nΩραίοι άνθρωποι γενναίες στιγμές\nΜε καρδιοχτύπια φευγάτες ζωές\nΦαντάσου όταν σε είδα\nΕίχες μια άρρωστη κινησιολογία\nΣε μια μεθυσμένη και απρόσμενη βόλτα\nΚατέληξα να σκέφτομαι ποιός είμαι τι θέλω\nΚαι όλοι μέσα στην πίστα\nΑνταλάσσουμε εντυπώσεις ιδέες και βίτσια\nΓελοίες υπάρξεις φαντάζουν σωστές\nΚαρικατούρες μες τις ενοχές\n♪\nΒιώνουμε αλλάζουμε νιώσε με τελειώσαμε\nΠαράτα με και μίσησέ με πιο πολύ\nΤώρα που φτάνουμε στον θάνατο\nΠιστέψαμε σε κάποια προσευχή\nΚατέστρεψες ό,τι έχεις μέσα σου\nΠαλάβωσα για λίγο δίπλα σου\nΟ δρόμος που διψά για λύτρωση\nΉταν απάτη απ' την αρχή\nΦρόνιμα να δώσεις νόημα\nΣε ό,τι πίστεψες παράνομα\nΣκοτάδια σάρκες τελευταίος χορός\nΚαι εξαντλείσαι συνεχώς\n♪\nΣώματα συντρίβονται\nΑγκομαχάς ολάκερη\nΜέσα σου συνθλίβεσαι και βγάζεις μια κραυγή\nΠάλεψες οράματα τέρατα και μυστικά\nΜα δεν βρήκες συνταγή\nΠοτέ!\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Νιάτα Δυναμίτης",
+                    "track_id": "11r6RHhyvkaMBTbL8NKEi8",
+                    "track_number": 5,
+                    "duration_ms": 142134,
+                    "lyrics": "Κοίτα, νιώσε και μάθε\nΆκου και ρώτα\nΜην παραδίνεσαι σε τούτη την φλόγα\nΤις μέρες, κάποιοι μετράνε σε σφαίρες\nΠόσες λέρες σε δικάζουν κάθε μέρα και χτύπα\nΚάνε ζημιά μην αφήσεις να ξεφύγει κανείς\nΚανείς που σε πνίγει\nΙσσορόπα\nΚανάλια και ντόπα σε κρατάνε αδρανή\nΤο ξέρω, δουλεύω εκεί μέσα\nΚυριακές, όλους μας φτύνει\nΜοιράζουνε πίστη τρόμο ευθύνη χωρίς μνήμη\nΚάτσε μέσα και μπέσα παραείσαι ασφαλής\nΠαραείσαι αφελής, αδαής τελευταία\nΔανείζομαι ένα χάρτη στουπί στο λιμάνι\nΤελευταία στάση στον ουρανό ένα αλάνι\nΈχει φύγει ένα δάκρυ κάτσε θα αλλάξει\nΗ τύχη στο λέω και η μπάντα μου αρχίζει\nΑδιανόητα γρήγορα πέρασαν τα χρόνια\n30 στα πατώματα με αγώνες και γέλια\nΣε στέκια πορείες παρακμή φασαρίες\nΣυναυλίες καταλήψεις και δουλειά στα καπάκια\nΜε αγάπη και καύλα\nΓια μένα για σένα\nΓια αυτούς τους ωραίους οι πλατείες αδειάζουν\nΟι βράχοι τους κρύβουν\nΣαλεύουν τα φύλλα\nΠου χάσαμε άδικα\nΓιορτή καναβάλι\nΣτον δρόμο σου βαδίζω\nΚουβαλάω ιστορίες\nΚαι κρατιέμαι στην φάση\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Όταν Γελάς Να Με Θυμάσαι Λίγο",
+                    "track_id": "2nR2CH68TgeZIEe2Pb3b3c",
+                    "track_number": 6,
+                    "duration_ms": 146965,
+                    "lyrics": "Και να που ανέβηκα για τελευταία φορά\nΣε αγκάλιασα κοιτώντας τα βουνά\nΣε μύρισα κάπου στα νησιά\nΜα ποτέ δεν γυρίσαμε από αυτά\nΜην με ρωτάς τι λένε για μας\nΜην με ενοχλείς\nΜην μου μιλάς\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Μομφεράτου Και Μουστοξύδη",
+                    "track_id": "7trYrS2r9NiEUXmjHgpWvR",
+                    "track_number": 7,
+                    "duration_ms": 188374,
+                    "lyrics": "Μην κοιτάξεις πίσω\nΜην κοιτάξεις πίσω\nΦωτιά ζητάς\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Μέχρι Το Πρωί",
+                    "track_id": "4P7RUEu7fghCwX9LIsFzFu",
+                    "track_number": 8,
+                    "duration_ms": 306527,
+                    "lyrics": "Όταν κάπου θα περισσεύεις\nΙστορίες του δρόμου γραμμένες με αίμα στο χέρι\nΚαι αν θέλεις να ξέρεις\nΠως θα καίει για πάντα η φλόγα που θα έχουμε βάλει\nΦωνάζουν μέσα σου οι νεκροί\nΓια τις στιγμές που δεν έχουν βρεθεί\nΞέμεινες Νοέμβρη στην βροχή\nΗ πόλη δεν φαίνεται έχει χαθεί\nΝα γελάς χάραμα απ' το αλκοόλ που το βράδυ είχες πιεί\nΝα ζητάς προσοχή σε κάθε βλέμμα ανθρώπου σιγή\nΕξαντλημένη κοιτάζεις τον ήλιο\nΣε ένα άδειο κτίριο ακούς μουσική\nΑπό τον πέμπτο βήματα και σβήνουν τα φώτα\nΧρωστάω κάτι μα που δεν με νοιάζει\nΑφού τελειώνει ο χρόνος ρε εσύ\nΣτην αλυσίδα ψάχνεις να βρεις διαφυγή\nΦωνάζουν μέσα σου οι νεκροί\nΓια τις στιγμές που δεν έχουν βρεθεί\nΞέμεινες Νοέμβρη στην βροχή\nΗ πόλη δεν φαίνεται έχει χαθεί\nΝα γλεντάς και να κλαις\nΣτους πιο βρώμικους δρόμους κραυγές έρωτα και θυμού\nΈνα κορίτσι χορεύει παντού\n♪\nΠάει καιρός\nΠου όλα αυτά\nΕίναι παρελθόν\nΕίστε εδώ\nΜες στα πλοία στις εστίες μες στα πάρκα που είστε\nΘα χαθώ\nΜέχρι το πρωί\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Αθιβολή",
+                    "track_id": "2J7o9cS32NiT2cQjKQiUUE",
+                    "track_number": 9,
+                    "duration_ms": 334800,
+                    "lyrics": "Χάνομαι\nΧάνομαι\nΧάνομαι\nΧάνομαι\n♪\nΜάτια σαν κέρμα φυλάνε το ψέμα\nΓια μια στιγμή δεν θα έχουν σήμα κανένα\nΣαν μαριονέτα νιώθεις πια στον αέρα\nΚι αν κάνεις πίσω θα ζητάνε και σένα\nΜες στο μυαλό σου νησί πια θυμήσου\nΚανείς θα κάνει την πράξη γνωστή σου\nΚαι όταν ξυπνήσεις η διπλά κλωστή σου\nΘα σε στηρίξει για να πέσει μαζί σου\n♪\nΓαλάζια μέρη για να μην διαφέρει\nΗ λάθος νότα να βγει σε δυο μέρη\nΤο πρώτο να έχει ψυχή διχασμένη\nΤο δεύτερο να είναι χέρι με χέρι\nΣε ένα δοχείο γεμίζεις τη λεία\nΓια να θυμάσαι τις μέρες στα πλοία\nΕυχαριστώ, συγνώμη πια σαν τους κλέφτες\nΧαμόγελα και σ' αγαπώ τρύπιες τσέπες\n♪\nΜες στο σκοτάδι αυτό σαν τον τυφλό και εγώ ψάχνω το φως μου\nΜόνος που νοιάζομαι και δεν μοιράζομαι\nΌλα θολά κοντά μου ζεστασιά καμια πια δεν υπάρχει\nΚαι υποκρίνονται για να μην δίνονται\nΜια λάμψη λιγοστή τόσο μικρή μα δες δεν με τρομάζει\nΚι είσαι και εσύ εδώ ήσουν από καιρό\nΜέσα στα κύματα το χέρι σου μπορεί διώχνει τη νύχτα\nΚι εγώ αρπάζομαι να ανέβω βιάζομαι\n♪\nΜια νέα αρχή ξανά μοιάζει τρομακτική μα προχωράω\nΠως να κοιτάξω το μπροστά χωρίς το χθες\nΜου λες ματώνουμε μαζί μια ζωγραφιά απ' τις πληγές μας\nΚαι από τα χρόνια αυτά που μεγαλώνουμε\n",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Fortunate Isles",
+            "album_id": "7t9QiO4QgmEV4ucQ6mSrlI",
+            "release_date": "2019-07-12",
+            "total_tracks": 10,
+            "tracks": [
+                {
+                    "track_name": "Leap into the Void",
+                    "track_id": "0PXnTY89Ksl7wJBUqweJOx",
+                    "track_number": 1,
+                    "duration_ms": 220153,
+                    "lyrics": "Another boring day, no need to stay\nI'm thinking of you on this messy bed\nYou say I'm crazy 'cause you don't want me anymore\nI know I'm not the one, I'm more afraid of you\nRemember what you said, this moment kills me again\nRemember when you close the door, better all alone\nWhy always close your phone? Is this the saddest song?\nBehind your false disguise, I will never pay the price\n♪\nI see the lies, you think I'm fine\nBut all the time, I'll wait for you\nYour eyes on drugs one hundred times\nIs it a crime? \"Never!\", you said\nA stormy night, this time I feel the things I say come true\nMy songs are bled, my life so small, your heart is just broke\n♪\nYou say ain't no way, you say ain't no way, you say ain't no way...\nThis dream is broke, this dream is broke, this dream is broke\nIs it a crime? Is it a crime? Is it a crime?\n\"Never\" you said, \"Never\" you said\nThis dream is broke, this dream is broke, this dream is broke\nSea of broken dreams\nColors on your nails\nEmpty abyss of space\nA touch on crummy face\nThe anchor on the seabed\nHow many years we live?\nA story of life begins\nI will face my fears\nI see the lies, you think I'm fine\nBut all the time, I'll wait for you\nYour eyes on drugs one hundred times\nIs it a crime? \"Never!\", you said\nA stormy night, this time I feel the things I say come true\nMy songs are bled, my life so small, your heart is just broke\nHer bizarre dresses\nIn weird places\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Below Zero",
+                    "track_id": "4DMz1Q7O8Ftee4pQP5R21b",
+                    "track_number": 2,
+                    "duration_ms": 155066,
+                    "lyrics": "Future's bleed our freedom's lost\nLiving without living at all\nYou don't lead a healthy life\nWhen you're falling, you are failing (you are failing)\n♪\nEverything you said to me was lies\nOne more time, yeah\nJust give us one more chance\nOne more fight to beat them down\nFighting the revolution\nScreaming, \"God, please, don't forget us\nDown this lonely road\nDown this empty broken road\"\n♪\nThe truth is lost\nAnd you're left alone\nCan't fight the pain\nThere is nothing to gain (nothing to gain)\n♪\nEverything you said to me was lies\nOne more time, yeah\nJust give us one more chance\nOne more fight to beat them down\nFighting the revolution\nScreaming, \"God, please, don't forget us\nDown this lonely road\nDown this empty broken road\"\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "School Policy",
+                    "track_id": "2dS0p2A5IHLGGMM9oeXfNr",
+                    "track_number": 3,
+                    "duration_ms": 205129,
+                    "lyrics": "Growing up, every day, with a gun in my head\nFeeling like I'm in an endless night\nI never lost a fight, but it hurts so bad tonight\n'Cause all the things I want to show you disappear\nIt all changed so fast, my head was blowing up\nIt seems so hard to cross it, but I'm still making up\nBut I'm still making up, making up, making it up\nBut I'm still making up, making up, making it up\nI have been dreaming for so long\nI feel like a clown\nWhat's the meaning of my life?\nAre we gonna die tonight?\nAll these stupid people said\nIf I ever breathe again?\nAll the things you can't forget\nUs out of control\nI have been dreaming for so long\nI'm better off on my own\nI have been dreaming for so long\nWe can do so much more\nWe don't give a fuck about your stupid lies\nWe are the forgotten sons you threw away\nWe don't give a fuck about your stupid lies\nYou are the crooked fucks, you'll bleed today\n♪\nI have been dreaming for so long\nI feel like a clown\nWhat's the meaning of my life?\nAre we gonna die tonight?\nAll these stupid people said\nIf I ever breathe again?\nAll the things you can't forget\nUs out of control\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Suicide Pub",
+                    "track_id": "0APASMASM7FBQ030PNcs2t",
+                    "track_number": 4,
+                    "duration_ms": 226342,
+                    "lyrics": "And I'm falling, and I'm falling\nI drink rum 'til the morning\nAnd I'm falling, always crying\nAnd I feel like 6-6-6\nNow she left me, doesn't feel me\nΟh my God, babe, please, forgive me\nStrange whispers locks on my door\nAnd I realize it's all my fault\n♪\nAll the freaks that inspired me\nThey leave after they killed me\nI thought that a high would make me feel better\nBut I'm just a burn-out\nAnd I'm falling, and I'm falling\nI drink rum 'til the morning\nAnd I'm falling, always crying\nI feel like 6-6-6\n♪\nWhoa, whoa-oh-oh, the sun scorches the ground\nWhoa, whoa-oh-oh, always drop me down\nWhoa, whoa-oh-oh, your past will always be there\nWhoa, whoa-oh-oh, wind blows my hair around\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "All My Friends Are Pirates",
+                    "track_id": "3h9LDmyek2ZwAcbpos1vUx",
+                    "track_number": 5,
+                    "duration_ms": 233379,
+                    "lyrics": "Tonight, a burning thought\nIn my mind, a dream so old\nIn my heart, a rising flame\nBut they try to take it away\n♪\nAn elderly man with a smile on his face\nHe asked me if I'm captain, I said, \"All my friends are pirates\"\n\"Yo ho ho, what a great day this be?\"\nHe told me while laughing, he yelled\n\"The black will always call me back\"\nAt sea, he wanted to set sail, again\nLike the good old days hunting prey with captain Vane\nNow he drinks rum in the local pub alone\nAnd all the people say he's the mad fool of this bay\n♪\nBabe, school, band, job\nCar, girl, pub\nUniversity, my identity, this is my life, my reality\nOh, chasing dreams, turning wild\nBlack flag waving in the sky\nSkull and crossbones scare away\nAll those who don't dare to stay\nI said, \"Pirates, fuck them all\"\nI said, \"Pirates, fuck them all\"\n\"Pirates fuck them all\nIt's the word everyone should know\"\nI said, \"Pirates, fuck them all\"\nI said, \"Pirates, fuck them all\"\n\"Pirates, fuck them all\nIt's the word everyone should know\"\n♪\nAnd as the wind spread tales up in the sky\nHe looked at me with a straight dead eye\n\"Boy, you ain't got what it takes\nThe sea's a goddamned wicked place\nThe salt and blood will tear you apart\nAnd alcohol will fill your heart\nGo find a lass and settle down\nThis world's so rough, you'll fucking drown\"\n\"I won't back down, I'm setting sail\"\n\"With fists up high, I will prevail\"\nHis eyes lit up, he starts to laugh\nAnd calmly reaches for his back\nThe gun was pointed straight at me\nThen puts it right up to his chin\nA large bang and a pool of blood\nAnd all his dreams spill on the wall\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Mother",
+                    "track_id": "1j97ViT3fZNw7xetZ3HsCD",
+                    "track_number": 6,
+                    "duration_ms": 248952,
+                    "lyrics": "Today, the time has finally come to\nRun straight, and do the things you kept on hold\nGrab life by the hair and leave them wondering\nThis ship's set up to sink, and you won't drown with it\nDespise, this chain of never-ending lies\nSometimes, there is no way to compromise\nYou're always on the clock, they'll never let you stop\nDon't bite the hand that feeds, devour it from within\nWell now mother, don't you lose your sleep tonight\nYour little boy's grown to a man\nWith both fists in the air, I won't be petrified\nI'll never stop staring at the sky\n♪\nRestrain, the aching feeling to give up\nToday, there's nothing that can make you stop\nThe fear makes you weak, move up your trembling feet\nShow them your heart and soul, there is no time to stall\nStand up and take a chance against the odds\nFight back, it's turning to an all-out war\nThe city's burning up, our voices reach the stars\nProtecting what is ours, that's what it's all about\nWell now mother, don't you lose your sleep tonight\nYour little boy's grown to a man\nWith both fists in the air, I won't be petrified\nI'll never stop staring at the sky\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Rum Nights",
+                    "track_id": "5SiejqfAzTIbuPDniQ8IFu",
+                    "track_number": 7,
+                    "duration_ms": 275541,
+                    "lyrics": "Grabbed my bag and slammed the door\nΝο feelings left behind and a world to explore\n♪\nI had nothing inside my mind\nNo one to confront me, and none to say goodbye\nI walked through town, my vision short\nI wouldn't stop for nothing till I got to the port\nThe road was dark, no lights ahead\nI mumbled through my lips, \"I hope this town was dead\"\nWas almost there, next to the shore\nUntil I heard a voice, that I couldn't ignore\nWaves come crashing down\nAs I'm leaving town\nI didn't feel I'd miss a thing\nUntil the moment I saw you running to catch me\nWith those watering eyes\nWith those watering eyes\n♪\nI found a new way to survive\nFilled with determination, my dreams could come alive\nBut as the distant shore just fades\nI hear the wake-up call, I have to get away (I have to get away now)\nSo many people around, so many places I've found\nThe thoughts just spin in my head, what if tomorrow I'm dead?\nI'd never call this place my home\nMy head stuck between my feet, I get up, clenching my teeth\nThe days go by with the wind, I have a promise to keep\nBut is there someone that remembers?\nIn the crack of dawn\nRumors still untold\nGrab my pen and write them down\nThere's a reason even if you're not around\nAnd the story still goes\nAnd the story still goes\n♪\nAnd as I go with the time, the pictures I've left behind\nAre taunting me to go back, I wish I had some more luck\nI'm so sorry, I didn't say goodbye\nI've grown in body and mind, the fire inside was alive\nBut I will never regret, the way that this time was spent\nI think it's time to catch up with you tonight\nTravelled many miles\nSaw a thousand smiles\nBut no one took your place it's true\nAnd in the end it was only me and you\nSilhouettes in the dark\nSilhouettes in the dark\nStories of Rum Nights\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "When the Waves Crash",
+                    "track_id": "1NpbIjTX6RLFRlGKWVhZAK",
+                    "track_number": 8,
+                    "duration_ms": 227741,
+                    "lyrics": "Love, love is a place of darkness\nFind your corner, share a thought with us\nAnd if your body shakes you\nEvery second brings your lucky back\nWhen I was full of madness, and desire for your pretty sight\nBeautiful people make me wanna play them, wanna be inspired\nTheir love will turn me crazy\nSearch in haze, make my dreams up high\n'Cause you are so mysterious\nPrecious mortal dangerous in my life\n♪\n'Cause you are so mysterious, dangerous in my life\nIn these dismal nights\nAlways on my mind\nIn these moments of rush\nWhen the waves crash\nIn these dismal nights\nAlways on my mind\nIn these moments of rush\nWhen the waves crash\n♪\nYou always keep on asking\nYou are raunchy, there's no other fight\nAnd we have kissed in heaven\nTaught us, \"Go down, see if you are lucky and hide\"\nWhat a greater thing there is\nBe one another in silence\nInside the light, a secret reflection makes us feel and burst into the fire\nBurst into the fire\n♪\nIn these dismal nights\nAlways on my mind\nIn these moments of rush\nWhen the waves crash\nIn these dismal nights\nAlways on my mind\nIn these moments of rush\nWhen the waves crash\nWhere the fuck are we?\nYou sat down next to me, and I forgot to breath\nWhere the fuck are we?\nWhat have you done to me?\nWhat have you done to me?\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Olive Harvest",
+                    "track_id": "4y38zgxzNhxImbU18YFEn2",
+                    "track_number": 9,
+                    "duration_ms": 158386,
+                    "lyrics": "Really need these pills, I don't know what the fuck is going on\nReally need these drugs, I'm tired of being always fucking wrong\nTo the number of nights spent in hospital\nAnd watching the movie, The Broken Circle, oh Breakdown\n♪\nI don't know why your smile reminds me, she\nShe is the only girl I need\nOn these adventures, times of parody\nI am on way, I'm always temperate\nBut I feel like shit today\nShe's screaming and smash the TV screen, break it up\n(Whoa-oh-oh) it's just a bad day, break it up\n(Whoa-oh-oh) not a bad life, break it up\n(Whoa-oh-oh) it's just a bad day, break it up\n(Whoa-oh-oh) not a bad life\nNot a bad life\n♪\nWhen I go to my village in West Crete\nI hate my dreams when they're so realistic\nWhen I drink wine from our barrel\nArrives the moment that I'm on the floor\nThinking what it happens (happens)\nBecause of you (of you)\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Unwelcome Journey",
+                    "track_id": "1LuPoVqOK04rsWE6A1nN6I",
+                    "track_number": 10,
+                    "duration_ms": 283024,
+                    "lyrics": "How the hell did we end up like this?\nWhen did this pain erase our bliss?\nHow this friendship was ever dismissed?\nBecoming perfect enemies\nA sea of thoughts inside my mind\nMemories of a long past life\nReminds me of the rage inside\nI wish nothing happened, everything is fine\n♪\nA lioness full of beauty and scars\nDeluded and guileless, devouring hearts\nA lone wolf full of pain and pride\nLicking his wounds, biding his time\nWe started a war, we both did our part\nDisconnection and silence, it all fell apart\nThis road is paved with innocence blood\nBut I paid my dues and enough is enough\n♪\nI think I wasted my time\nThe bridge of our love is falling\nI was waiting for you\nOne thousand days of choking\nThese eyes, they never close\nEmblem of vigilance\nI sit here like a fool\nYou are lying\nYou are lying, now (woo-oh-oh, oh-oh)\nI'm in this hell-pit all alone (woo-oh-oh, oh-oh)\nI'm never breaking down (woo-oh-oh, oh-oh)\nI'll fight my way out (woo-oh-oh, oh-oh)\nOr hell-king I'll be crowned\nWoo-oh-oh, oh-oh\nWoo-oh-oh, oh-oh\nWoo-oh-oh, oh-oh\nWoo-oh-oh\nI think I wasted my time\nIt's time to stop myself from crawling\nPeople say never give up but\nToday? I'm not ok\nThis voice, will always shout\nEmblem of injustice\nI sit here like a fool\nYou are lying\nYou are lying, now (woo-oh-oh, oh-oh)\nI will accept it all inside (woo-oh-oh, oh-oh)\nBy past deeds was defined (woo-oh-oh, oh-oh)\nI will find my peace of mind (woo-oh-oh, oh-oh)\nAnd the good times will be mine (woo-oh-oh, oh-oh)\nYou have brought out the black (woo-oh-oh)\nThe one I struggled to hold back (woo-oh-oh)\nYou have brought out the black (woo-oh-oh)\nThe one I struggled to hold back\n",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Στο Φινάλε",
+            "album_id": "2USMaVhSWtKs2BRvOvfWJD",
+            "release_date": "2016-05-14",
+            "total_tracks": 11,
+            "tracks": [
+                {
+                    "track_name": "H Συμφωνία Της Γκράβας",
+                    "track_id": "0S7aMxWT7xYi1xYrKLBmT7",
+                    "track_number": 1,
+                    "duration_ms": 287426,
+                    "lyrics": "Γεννήθηκες και μεγάλωσες με αγάπη\nΜα δεν πέρασες τα πάθη οπότε επιβίωσε\nΜες στην δική τους ειρωνεία γαντζωμένος στην ανία\nΔεν υπάρχει πια ουσία\nΓιατί χάθηκε\nΚι όλο ζαλίζομαι απ' τα ζάρια μες στης κόλασης τα πάρκα\nΜια βολή να μου θυμίζει ότι αιμορραγώ\nΒλέπω κάδους νεκρούς κατάντια υποχθόνια τομάρια\nΚαι τα παιδιά μέσα στα σπίτια\nΠαθαίνουν πανικό\nΟοοο τα 'χουνε χαμένα\nΟοοο αμφιβάλλουνε για εσένα\nΟοοο παρακμή και σήψη\nΟοοο οργανική αποσύνθεση θυμίζει\nΜέσα σε γνώριμες οθόνες και ασπρόμαυρες εικόνες συναισθήματα που οδηγούν στο τζόγο\nΚαυτές σκηνές πρέζα και πόρνες όλοι γνώριμοι προδότες το απολαμβάνουμε αυτό καιρό\nΠυρηνικά μέσα στις χώρες ξεδιάντροπες στιγμές\nΦιλήσυχοι δεινόσαυροι σε τρώνε κι όλο κλαις\nΔούλοι του χρήματος φονιάδες υποψήφιοι μπαμπάδες\nΜας τσακίζουν κάθε μέρα στον μονόλογο\nΟοοο τα 'χουνε χαμένα\nΟοοο αμφιβάλλουνε για εσένα\nΟοοο παρακμή και σήψη\nΟοοο οργανική αποσύνθεση θυμίζει\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Είδωλα Και Καθρέπτες",
+                    "track_id": "3SZwLGZ1HhUYA4MwZm7tA0",
+                    "track_number": 2,
+                    "duration_ms": 104360,
+                    "lyrics": "Πως μπορείς να αλλάξεις τα πάντα γύρω σου;\nΠου ο μεγαλύτερος φασίστας είναι μέσα σου\nΈνα τσίρκο γεμάτο ψεύτες, πόζερους και μαριονέτες\nΈξω απ' το τσούρμο της σαπίλας στο όνομα της ελευθερίας\nΠρέπει να αυτοοργανωθούμε όλοι μαζί να κινηθούμε\nΜαζί τους μην αναλωθούμε οι πονηροί καιροί θα 'ρθούνε\nΚι όλα καλά με το κοπάδι σφάχτηκα\nΌλα καλά ο κόπανος έσκασε ξανά\nΝα αγωνιστείς μέσα από είδωλα προσπαθείς\nΚαι προκαλείς τις εντυπώσεις για να φανείς\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Φινάλε",
+                    "track_id": "6giqOO0AoYXeny1U9XRgVn",
+                    "track_number": 3,
+                    "duration_ms": 211436,
+                    "lyrics": "Μα όλα αυτά που έχουμε ζήσει από παιδιά\nΔεν μπορούν να χαθούν σε μια βραδιά\nΚαι τίποτα δεν με αλλάζει τελικά\nΚαι αν σε σκέφτομαι και είμαι πάλι χάλια\nΓια αυτούς που χάσαμε, σου λέω μη μασάς, για τις πιο δύσκολες στιγμές μη με ρωτάς\nΣε ένα καθρέφτη γυμνά κορμιά χωρίς ντροπές\nΕξαθλιώνονται με κλέφτες βιαστές\nΒρες μια στιγμή μια επαφή τρομακτική\nΝα αγωνίζεσαι φωνάζει η λογική\nKαι στο 'χα πει δεν είναι ψευδαίσθηση\nΣε μια βιτρίνα που ραγίζει είσαι και εσύ\nΓια μια σκέψη που φαντάζει πιο σωστή\nΓιατί φοβάσαι μια ιδέα ελεύθερη;\nΣε έχουνε πλάσει σε μια μίζερη ζωή\nΤα όνειρα σου στα σκουπίδια και εσύ\nΓια αυτούς που χάσαμε, σου λέω μη μασάς, για τις πιο δύσκολες στιγμές μη με ρωτάς\nΣε έχουνε πλάσει σε μια μίζερη ζωή\nΤα όνειρα σου στα σκουπίδια και εσύ\nΜα τελικά πάλι γλεντώ στην μοναξιά\nΜε όλα τα αδέσποτα δίνουμε χρώμα στα μπετά\nΔεν μπορώ να θυμηθώ το όνομα και το άρωμα σου\nΓνώριμο χαμόγελο και το βλέμμα της ματιάς σου\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Δεν Ξέρεις Τίποτα Για Μένα",
+                    "track_id": "2cXzDqVBCa3HBu4XHhSe73",
+                    "track_number": 4,
+                    "duration_ms": 235782,
+                    "lyrics": "Μπαίνοντας στο σπίτι δάκρυα στα μάτια σου κυλούν\nΚαι με πνίγει πάλι αυτή η δύσκολη στιγμή\nΣε παραμέλησαν, σε ξέχασαν, σε άφησαν γιατί\nΠοτέ δεν ένιωσες που είσαι λάθος και σωστή\nΔεν ξέρεις τίποτα για μένα\nΌμως μπορείς εύκολα να κρίνεις\nΠόσες στιγμές όλα ψέμματα\nΌταν την εμπιστοσύνη μου κερδίζεις\nΚι είναι κάτι\nΠου δεν μπορώ να εξηγήσω\nΈνα θαύμα μέσα στο δικό μου χάλι\nΚι οι αναστολές τρομαγμένος πάλι πίνω\nΚαι αδειάζω μες στης λήθης το μπουκάλι\nΌ,τι γεννήθηκε, ποτέ δεν έσβησε\nΣε μια πλάνη μαγική\nΚαι όσα έχασα ποτέ δεν έκλαψα\nΜου το θύμισες εσύ\nΟ δρόμος γνώριμος, δεν υπάρχει γυρισμός\nΘα πέσω στη βροχή\nΚαι αν η καρδιά μου σταματά, αν επιβίωσα ξανά\nΕξασθενώ σιγά σιγά\nΔεν ξέρεις τίποτα για μένα\nΌμως μπορείς εύκολα να κρίνεις\nΠόσες στιγμές όλα ψέμματα\nΌταν την εμπιστοσύνη μου κερδίζεις\nΚι είναι κάτι\nΠου δεν μπορώ να καταλάβω\nΈνα δάκρυ μέσα στο δικό μου χάλι\nΟι αναστολές τρομαγμένος πάλι σβήνω\nΚαι αδειάζω μες της τρέλας το παιχνίδι\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Γειά",
+                    "track_id": "4vJX8cUhl43tq47jswVG4e",
+                    "track_number": 5,
+                    "duration_ms": 214988,
+                    "lyrics": "Γειά\nΓυρνάω γύρω γύρω και θυμάμαι τα παλιά\nΣε μια ξένη πόλη μα στην ίδια γειτονιά\nΤώρα είσαι εκεί δεμένος με λουρί\nΚαι θέλεις να αποκτήσεις δυναμή και λογική\nΞύπνα δικιά σου είναι η ζωή μεγάλε\nΣήκω βγές έξω και αγωνίσου φίλε\nΚαι σε τρομάζει μια πόλη με ένα δήμαρχο καριόλη\nΣυμμαθητές που βγήκαν σκάρτοι\nΚαι στο παίζουνε εντάξει μα δεν είμαι πια στην τάξη\nΠερπατάω στο γαλάτσι\nΈχω δει πολλα μ' ακόμα\nΔεν μιλάω για κανένα\nΜα ό,τι και αν σου πουν\nΟτι σου ζητούν\nΟτι θέλουνε\nΔεν θα το πάρουνε\nΣκέψου που μπορείς να βρεθείς απ' τα ψηλά στα χαμηλά μία μέρα θα πέσεις\nΣκέψου πως μπορείς να χαθείς σε ένα παιχνίδι από διαφημίσεις να πεθαίνεις\nMα ό,τι και αν σου πουν\nΟτι σου ζητούν\nΟτι θέλουνε\nΔεν θα το πάρουνε\nΑξιοπρέπεια σε ένα σάπιο σύστημα\nΚράτη αφεντικά δημόσια σκλαβιά\nΓιατί σε καλούν σ' αυτή την φυλακή\nΚαι αν δεν αντισταθείς θα σε γαμάνε\nΠεριθώρια Μάτ μνημόνια\nΣε ρίξανε ξανά μέσα στα βαθιά\nΟοο Οοο σε ρίξανε ξανά μέσα στα βαθιά\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Όλα Στα Γρήγορα",
+                    "track_id": "5HEsETtbQVb5cLTZP9Y54i",
+                    "track_number": 6,
+                    "duration_ms": 187351,
+                    "lyrics": "Μέσα στον κόσμο μιας βραδιάς\nΈνα τεράστιο φορτίο διψασμένης σκλαβιάς\nΣε κάνει να παρατηρείς\nΝα ζεις πάλι για μια στιγμή που είναι μοναδική\nΣαν από αυτές τις μαύρες τις εικόνες στιγμές\nΠου εδώ και χρόνια παίζουν μπάλα αντί για τις καλές\nΒόλτες, ταινίες, σχέσεις μια λυπημένη πνοή\nΌλα στα γρήγορα σε κάνουν ζόμπι σε μια στιγμή\nΖόμπι για μια στιγμή\nΧάθηκες και εσύ\nΜέσα στο κύμα ελπίδα μοναδική\nΜέσα στο κύμα θα περιστρέφεται όλη η γη\nΝα γίνεις χειμώνας για δυο στιγμές\nΜέσα σε όλες αυτές διεκδικητικές\nΜέσα στο κύμα ελπίδα μοναδική\nΜέσα στο κύμα θα περιστρέφεται όλη η γη\nΝα γίνεις χειμώνας για δυο στιγμές\nΜέσα σε όλες αυτές διεκδικητικές\nΚαι όλα εκείνα τα φορτία που θα έχεις μαζί\nΝα προτιμάς να τα αφήνεις για μια άλλη στιγμή\nΜας έχουν κάνει ρομποτάκια χώρις σκέψη απλή\nΌλα στα γρήγορα βολεύει να μην έχεις ζωή\nΣκέψου κάποιος κάπου κάτι θα υπάρχει εκεί\nΚαι θα τον χάνεις κάθε μέρα επειδή είσαι εσύ\nΈνα απλό στρατιωτάκι περιμένοντας να 'ρθει\nΕκείνη η Παρασκευή που θα 'ναι ξεχωριστή\nΘα κάνεις επανάσταση στο ίδιο μέρος μπορεί\nΚαι θα γλυτώνεις απ' το κύμα που θα φέρνει ευχή\nΜέσα στο κύμα ελπίδα μοναδική\nΜέσα στο κύμα θα περιστρέφεται όλη η γη\nΝα γίνεις χειμώνας για δυο στιγμές\nΜέσα σε όλες αυτές διεκδικητικές\nΜέσα στο κύμα ελπίδα μοναδική\nΜέσα στο κύμα θα περιστρέφεται όλη η γη\nΝα γίνεις χειμώνας για δυο στιγμές\nΜέσα σε όλες αυτές διεκδικητικές\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "O Kόσμος Μας",
+                    "track_id": "28BNJhSWFBEQWdYY1B0SPg",
+                    "track_number": 7,
+                    "duration_ms": 192784,
+                    "lyrics": "Aυτοκρατορίες πομποδών τζακιών\nΣε δημοκρατίες ανασφαλών αστών\nΤυραννικές κυβερνήσεις-σκιές\nΆψυχα ανδρείκελα με μπλε-χακί στολές\nΑθεράπευτοι πια ψυχοπαθείς\nΚαι φιλάνθρωποι οικολόγοι πλουτοκράτες\nΑυτοδημιούργητοι ρουφιάνοι\nΕπαγγελματίες λαοπλάνοι καναλάρχες\nΝυν ξεπουλημένοι πρώην επαναστάτες\nΠου ευλογούν τα αγωνιστικά τους γένια\nΚαι ρίχνουν γκομενάκια σε μαζώξεις και πορείες\nΜε επαναστατικές βαρύγδουπες ορολογίες\nMα αν αυτός ή ακόμη περισσότερος\nΕίναι ο κόσμος μου και ο δικός σου\nΤότε ένοχος είμαι κι εγώ\nΈνοχος κι ο εαυτός σου\nMα αν αυτός ή ακόμη περισσότερος\nΕίναι ο κόσμος μου και ο δικός σου\nΤότε ένοχος είμαι κι εγώ\nΈνοχος κι ο εαυτός σου\n♪\nΠολυεπίπεδη λοιπόν αιώνια μάχη\nΤάχατες του καλού και του κακού\nΜε του πρώτου θρίαμβου μονάχα\nΠλήρης αφασία στις οθόνες\nΤου άμαχου του πληθυσμού\nΘρησκείες κάτεργα ενός πλανητάρχη\nΡουσφετολάγνου τιμωρού Θεού\nΓια να ταΐζουν το πνεύμα μεταλλαγμένων δηλητηρίων\nΕταιρείες-κολοσσοί\nΚι ολόγυρα υπερτροφικές εξωτικές τεχνολογίες\nΠου σκλαβώνουν και ερεθίζουν τον έλεγχο\nΚαι να γιγαντώνουνε το φόβο\nMα αν αυτός ή ακόμη περισσότερος\nΕίναι ο κόσμος μου και ο δικός σου\nΤότε ένοχος είμαι κι εγώ\nΈνοχος κι ο εαυτός σου\nMα αν αυτός ή ακόμη περισσότερος\nΕίναι ο κόσμος μου και ο δικός σου\nΤότε ένοχος είμαι κι εγώ\nΈνοχος κι ο εαυτός σου\n♪\nΑδερφέ η τελευταία επικηρυγμένη λέξη\nΠου το πιο μεγαλειώδες θα σπείρει χάος\nΜέσα στην παγωμένη τους τάξη\nΤάξη\nΤάξη\nΤάξη\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Kαλιφόρνια",
+                    "track_id": "7yyvD6YovFOo1eIoRO9Uty",
+                    "track_number": 8,
+                    "duration_ms": 166374,
+                    "lyrics": "Σκάσαν με το Ξαρά πάνω στη γέφυρα\nΤην ώρα που βγάζαμε τα σπρέϊ\nΜας κυνηγήσανε εμείς τους βρίσαμε\nΚαι ο Σιβέλας του έσπασε το χέρι\nΚαι παγιδεύτηκα, μαζί τους έμπλεξα\nΣτο παραλήρημα, το χρόνο έχασα\nΈχω ένα σχέδιο, να φύγω μακριά\nΝα εξαφανιστώ, σε άλλη γειτονιά\nΝα παίζω ροκ εν ρολ με το συγκρότημα\nSkate, πανκ ροκ και αλκοόλ στην Καλιφόρνια\nΓιατί πολύ απλά γρήγορα και σωστά\nΓελάμε πάντα, πάντα τελευταίοι\nΠόσο πολύπλοκη είναι η ζωή στην εφηβεία\nΠόσο ανήθικο το κράτος που απαντάει με βία\nΚαι όσο θα καίγεστε όλοι μέσα στην τεχνολογία\nΕγώ θα είμαι μες στους δρόμους όχι ένα ακόμη θύμα\nΚι ό,τι αλλάζει πάντα γίνεται χρυσός μαζί σου\nΜην σε τρομάζει τίποτα ζήσε τα όνειρα σου\nΧαμένα κομμάτια που είχαμε γράψει στα σκαλιά\nΧαμένα τραγούδια που είχαμε γράψει απ' τα παλιά\nΈχω μια κρυψώνα κάπου στον αέρα\nΚι η ανάσα μου τρέμει συνέχεια\nΈχω μια κρυψώνα κάπου μες στο χώμα\nΌλοι κάποτε θα είμαστε εκεί παρέα\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Σχιζοφρένεια",
+                    "track_id": "0aKvaXNbLqa3iaMaRJVYsS",
+                    "track_number": 9,
+                    "duration_ms": 192680,
+                    "lyrics": "H μουσική που με μεθάει στα σοκάκια\nΘα ξεφαντώνει όλης της Πάτρας τα στενά\nΚαι το πολύχρωμο δικό μας καρναβάλι\nΜέσα στο mods με φίλους το 2007\nΌταν ξυπνάω στα σκαλάκια φέρνω βόλτες\nΣτο Κάστρο live του αδερφού μου και ρακί\nΣουβλάκι απ' το λεμόνι πάρτυ στην Αρρόη\nΣτηv παραλία ξημερώνει Kυριακή\nΚαι απορώ σχιζοφρένεια πια νόσος με έχει καταβάλει;\nΚαι όλα γύρω σκοτεινά\nΑπορώ γιατί αισθάνομαι σαν χαζοχαρούμενο\nΔιαβάζω λόγια σου σοφά και ρητά\n♪\nΠεριπλανιέμαι και γουστάρω αυτή την μέρα\nΜε μία λαχανί μπλούζα στου Ψυρρή\nΆνοιξη, αφίσες, γκράφιτι στους τοίχους\nΜια μέρα που τζαμάραμε στην Λαμπρινή\nΣτο Πόρτο τριγυρνάω με μια κιθάρα\nΣε ένα παγκάκι τραγουδάω στο γυαλό\nΜε ένα ποδήλατο και μια φωτογραφία\nΣε Γαύδο, Κρήτη, Ικαρία και Αμοργό\nΚαι απορώ σχιζοφρένεια πια νόσος με έχει καταβάλει;\nΚαι όλα γύρω σκοτεινά\nΑπορώ γιατί αισθάνομαι σαν χαζοχαρούμενο\nΔιαβάζω λόγια σου σοφά και ρητά\nΑπορώ σχιζοφρένεια ή πάρτυ με έχει συνεπάρει;\nΚαι όλα γύρω σκοτεινά\nΑπορώ γιατί καίγομαι απ' τις ουσίες που έχω πάρει\nΘα αποδράσω βιαστικά, θα αποδράσω ψιθυριστά\nΘα αποδράσω μελλοντικά\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Νεκρή Κατά Τα Τρία Τέταρτα",
+                    "track_id": "4AJxrsjy7GDpSxEbzOTWas",
+                    "track_number": 10,
+                    "duration_ms": 188030,
+                    "lyrics": "Την γνώρισε βράδυ\nΣε μια μπυραρία φτωχή συνοικία\nΠαράξενη γιορτή\nΘυμίζει εμένα και μια κοπέλα\nΠου μ' είχε πληγώσει\nΣε μια δύσκολη στιγμή\nΈπαιζε πιάνο τον χάζευε μόνη\nΚατέβαζε ένα μπουκάλι κόκκινο κρασί\nΛέγαν' τα πάντα κολλητά φιλαράκια\nΚαι κάνανε σεξ μέχρι το πρωί\nΤην σκότωσε\nΉταν το πιο καλό παιδί\nΤην σκότωσε\nΕίχαμε κάνει στρατό μαζι\nΝεκρή την άφησε\nΣτην Κόρινθο τον κρύβουνε\nΤην σκότωσε\nΒρήκε την πιο καλή στιγμή\nΥπάρχει λόγος που σε θέλουνε χωρίς τσαμπουκά\nΥπάρχει τρόπος για να κυβερνήσεις\nΘέλει πουστιά\nΥπάρχει λόγος που σου είπε κι εκείνη ψέμματα\nΥπάρχει κι όμως, γιατί την αγάπησες αληθινά\nΥπάρχει λόγος και είσαι σκατά\nΤην σκότωσε\nΉταν το πιο καλό παιδί\nΤην σκότωσε\nΒρίζαμε τον στρατό μαζι\nΝεκρή την άφησε\nΣτο σπίτι μου τον κρύβουμε\nΤην σκότωσε\nΒρήκε την πιο καλή στιγμή\nOoo ooo μαχητής της πρώτης γραμμής\nΟοο ooο σκεπτόμενος και ανασφαλής\nΟοο ooο ταξίδια μες στην εθνική\nΟοo oοο ενάς του δρόμου ποιητής\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Yποταγή Συνειδήσεων",
+                    "track_id": "6sUYYI814MGVxzB6uhxcYy",
+                    "track_number": 11,
+                    "duration_ms": 188265,
+                    "lyrics": "Και βλέπω γύρω μου τους σκλάβους πάνω απ' τα θρανία\nΠαιδιά να χάνονται κάτω απ' τα φωτά με μανία\nΚαι νιώθω μόνος μου υποταγμένος στην ψυχή σου\nΣαν μια βελόνα που τρυπάει μέσα το κορμί μου\nΝομίζω παραλύω τόσα χρόνια πέφτω κάτω\nΚαι μια σκηνή μπροστά μου πια δεν ξέρω τι να κάνω\nΌμως μένω για πάντα εδώ μόνος στο δρόμο που χάραξα\nΚαι περπατώ\nΕίναι ένα σημάδι που θυμάμαι απ' τα παλιά\nΕίναι ένα βλέμμα που 'δα μόνο μια φορά\nΔιασκευή, προσαρμογή, φωνές στο πουθενά\nΚάνω πρόβα του θανάτου σου έτσι απλά\nΕίμαι εδώ μα δεν είμαι ο μόνος\nΣε μια πόλη που φλέγεται\nΕίμαι εδώ μα δεν μοιάζω μόνος\nΌ,τι ζητάς πάντα χάνεται\nΝταβατζιλίκι, υπάρχει λύση\nΜία είναι η κουβέντα βιαστικά να σβήσεις\nΚι όσα παρίστανες και παρακίνησες\nΚατώτερος μέσα στα λόγια τους μεγάλωσες\nΚοίτα και μένα, μιμούμαι εσένα\nΠνίγομαι σ' ένα αριστούργημα γεμάτο αίμα\nΌλα τα στρίμωξα\nΔεν συγκεντρώθηκα\nΈπαιξα και έχασα στον ουρανό αφέθηκα\nΕίμαι εδώ μα δεν είμαι ο μόνος\nΣε μια πόλη που φλέγεται\nΕίμαι εδώ μα δεν μοιάζω μόνος\nΌ,τι ζητάς πάντα χάνεται\nΠάλι μόνος, πόσο μόνος\n",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Walking the Plank",
+            "album_id": "3445srBapbuPkaYg9vWmxg",
+            "release_date": "2013-09-22",
+            "total_tracks": 10,
+            "tracks": [
+                {
+                    "track_name": "Are You Blind?",
+                    "track_id": "3gIacS4ieEDn9K9O0amNRY",
+                    "track_number": 1,
+                    "duration_ms": 182821,
+                    "lyrics": "Cause all the time you are in search of an explanation\nWhy we should be a part of your domination\nNow it's the time, get the time\nWhere the sorrow up\nNow it's the time, get the time\nThat the stupid faces cry\nBelieve the lies come on, where your life is sold\nBelieve the lies come on, where is not to say\nSo stand up get up stand up you must fight them\nSo stand up get up stand up you must fight them\nThis situation involves a wrongly written part\nGrab with your hands the pen and write it from the start\nPlease see, you are blind\nSo mister, think what you think\nYou got all rights to do that\nThink what you think\nBut I will tell you to shut\nOpen your mind don't you see? you are blind\nOpen your mind don't you see? you are blind\nThis situation involves a wrongly written part\nGrab with your hands the pen and write it from the start\nPlease see, you are blind\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Skate Athens",
+                    "track_id": "0F4c0JcQnJPbNQUyPdaEaT",
+                    "track_number": 2,
+                    "duration_ms": 17683,
+                    "lyrics": "No lyrics found for this track.",
+                    "lyrics_source": "none"
+                },
+                {
+                    "track_name": "Feedback",
+                    "track_id": "29rMrFzI69a2ImbpHrrdsR",
+                    "track_number": 3,
+                    "duration_ms": 189875,
+                    "lyrics": "Dead zone, I don't believe them\nLast hope, where am I?\nFeedback, your career is dead\nA new state of reality\nA new day, bring your company\nNo way, revolution began\nWaste of time, I think I'm falling off\nI don't know\nWaste my life, I think I'm cracking up\nI don't care\nWhat's going on?\nIs everything alright?\n♪\nRolling with my skate, looking for a job\nPlaying with my band our favorite songs\nNobody cares, I'm walking alone\nWith you again, I'm still too young to die\nI'm not afraid, this is my crime\nFlying with the crow, let's go to the punk rock show\nWaste of time, I think I'm falling off\nI don't know\nWaste my life, I think I'm cracking up\nI don't care\nWhat's going on?\nIs everything alright?\n♪\nWaste of time, I think I'm falling off\nI don't know\nWaste my life, I think I'm cracking up\nI don't care\nWhat's going on?\nIs everything alright?\nWhat's going on?\nFuck you, bastards\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "My Life",
+                    "track_id": "25Fw2YqfTKtVrwl5CuWcME",
+                    "track_number": 4,
+                    "duration_ms": 150296,
+                    "lyrics": "Children with no life\nMoments on my mind\nVote your government\nWatch your T.V. set\nAnd I'm wasting my time talking and arguing with you\nI do what I want\nBut you do what you are told\n♪\nBut I can't forgive, I can't forget, you know nothing\nOn this stupid game with my life and your country\nTell me, why can't you see, you know nothing?\nStop this feeling anymore\n♪\nBut I can't forgive, I can't forget, you know nothing\nOn this stupid game with my life and your country\nTell me, why can't you see, you know nothing?\nStop this feeling anymore\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Billy Hates the Goverment",
+                    "track_id": "0FiQxmt6VcuqFepLJXfpJT",
+                    "track_number": 5,
+                    "duration_ms": 195612,
+                    "lyrics": "Billy hates the government ooh\nBilly hates the government ooh\nBilly knows that the president is a liar\nBilly wants to set the president on fire\nDo you want to live in a plastic world? ooh\nDo you want to live? i don't know ooh\nI try, I try, I try to escape\nI try, I try to escape from this world\nOoh oooh oooh ooooooh\nSplit\nI can't believe that you judge my life\nI think I am tired but we are screaming all night\nI want to burn, burn this city tonight\nAnd despair, all the feelings you have\nDo you want to live in a plastic world? ooh\nDo you want to live? i don't know ooh\nI try, I try, I try to escape\nI try, I try, to escape from this world\nOoh oooh oooh ooooooh\nSplit\nNow Billy lives on the streets, come on\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "False Love",
+                    "track_id": "13ypkQmzRC2QhtAw5LtcSz",
+                    "track_number": 6,
+                    "duration_ms": 180820,
+                    "lyrics": "First time I met you on the k44\nYou danced to me, and my dick was growing up\nAnd every day, you called on my phone\nYou said you needed our love\nBut I failed with you, and now it's true\nIt drove nice 'cause finally you are a bitch who smiled\nAnd you made me cry several times\nI thought I found my second love, I can't believe how stupid I was\n(Whoa-oh, whoa-oh) stupid, baby, I don't know\n(Whoa-oh, whoa-oh) if I call you tomorrow\n(Whoa-oh, whoa-oh) you're screaming on the road\n(Whoa-oh, whoa-oh) go fuck yourself and shut up\n(Whoa-oh, whoa-oh) stupid, baby, I don't know\n(Whoa-oh, whoa-oh) if I call you tomorrow\n(Whoa-oh, whoa-oh) you're screaming on the road\n(Whoa-oh, whoa-oh) go fuck yourself and shut up\nI am not sure, but I think you are crazy\nI stayed with you, I think I was wrong\nAnd all the times we spent together\nI don't need you anymore\nBut I failed with you, and now it's true\nIt drove nice 'cause finally you are a bitch who smiled\nAnd you made me cry several times\nI thought I found my second love, I can't believe how stupid I was\n(Whoa-oh, whoa-oh) stupid, baby, I don't know\n(Whoa-oh, whoa-oh) if I call you tomorrow\n(Whoa-oh, whoa-oh) you're screaming on the road\n(Whoa-oh, whoa-oh) go fuck yourself and shut up\n(Whoa-oh, whoa-oh) stupid, baby, I don't know\n(Whoa-oh, whoa-oh) if I call you tomorrow\n(Whoa-oh, whoa-oh) you're screaming on the road\n(Whoa-oh, whoa-oh) go fuck yourself and shut up\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Hijo De Puta",
+                    "track_id": "6q1UG29Kv0mpkD0lluwNvV",
+                    "track_number": 7,
+                    "duration_ms": 223814,
+                    "lyrics": "Roll down the stairs on the sub every night\nSitting on the same seat under the light\nT.V. is black when I am turning it off\nI am watching the news but I'm still carrying on\nLooking (at) the clock on the wall that's broken\nFrom my fucking memories\nWhy you believe them?\nWhy do you need them?\nRemind me who you are?\nRemind me who you want to be?\nWithout your friends?\nWithout your soul?\nWithout your mind?\nSinging tonight\nRemember, forever, your school times\nRemember when you were a smiling child\nI know that the reason is for the money\nI know that the reason is for your family\nKill your kids and your parents\nKill your friends and yourself\nDie alone with remorse\nHow you feel, all alone?\nBurn your flags, slaves no more\nBurn your flags, chains no more\nI don't believe them\nI don't believe them\nI don't believe them\nThat's my world\nFirst time I realized, I wanted to fly\nI finished the school, I am a big guy\nTen years have gone from\nThis fucking lie\nFrom this fucking lie\nWhy you believe them?\nWhy do you need them?\nRemind me who you are?\nRemind me who you want to be?\nLost my hope\nLost the fight\nLost my girl\nLost my mind\nRemember, forever, your school times\nRemember when you were a smiling child\nI know that the reason is for the money\nI know that the reason is for your family\nKill your kids and your parents\nKill your friends and yourself\nDie alone with remorse\nHow you feel, all alone?\nBurn your flags, slaves no more\nBurn your flags, chains no more\nI don't believe them\nI don't believe them\nI don't believe them\nThat's my world",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Pirate Song",
+                    "track_id": "775zc0B8CtnRfjsDNrhjNr",
+                    "track_number": 8,
+                    "duration_ms": 62264,
+                    "lyrics": "One two\nOne, two, three, four\n♪\nI was young and I was Pirate\nI was young and I was outta here's baby\nI'm the guy who lives in Northeast\nCity of lies in my mouth\nAll the time it cries\n♪\nDo you know this picture?\nPrepare, the world's coming bad\nDo you know what you serve?\nRight now, the world right now is tensed\nDo you think I'm happy?\nI'm fucking drunk all the time\nSpending on mead\n",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Walking the Plank",
+                    "track_id": "5vxaxpCIQO1IY6RGa2kuLR",
+                    "track_number": 9,
+                    "duration_ms": 215815,
+                    "lyrics": "No lyrics found for this track.",
+                    "lyrics_source": "none"
+                },
+                {
+                    "track_name": "Marie Jane",
+                    "track_id": "1WW3671ydZt0fvhkQyKSCz",
+                    "track_number": 10,
+                    "duration_ms": 149215,
+                    "lyrics": "Lady, sweetie, come closer, I have a secret say with your eyes\nLife is like a circle full of colours and glossy light\nMy lady sweetie, come closer, I have a kiss to say with your chicks\n'Cause all of a sudden, I feel the silence the better you carry on\n♪\nClose your eyes like a swine, just reside through the beat of my heart\nBe my babe, gaze the stars\nSpend the rest of the days with me\nDon't know how much I love you, don't know how much I need you\nMy baby, let's give it a try\nDon't know how much I love you, don't know how much I need you\nMy baby, let's give it a try\n♪\nMy wasted years\nMy way from here\nMy way might be here\nI'm not okay\n♪\nClose your eyes like a swine, just reside through the beat of my heart\nBe my babe, gaze the stars\nSpend the rest of the days with me\nDon't know how much I love you, don't know how much I need you\nMy baby, let's give it a try\nDon't know how much I love you, don't know how much I need you\nMy baby, let's give it a try\n",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Συγχαρητήρια Στην Ανθρωπότητα",
+            "album_id": "0R72MY0kJWt4DqQQYDmqnc",
+            "release_date": "2011-11-11",
+            "total_tracks": 10,
+            "tracks": [
+                {
+                    "track_name": "Ζωή Στη Φυλακή",
+                    "track_id": "61YDS2mpoDvmOpFFRf9Dxr",
+                    "track_number": 1,
+                    "duration_ms": 212063,
+                    "lyrics": "Kαποιές φορές νομιζείς πως με τα λεφτά έχεις τα πάντα στη ζωή σου βλάκα\nKαποιές φορές νομιζώ πως κοροιδεύεις τον ίδιο σου τον εαυτό μαλάκα\nΜα κουράστηκα  ολα τα έμπλεξα και μπερδεύτηκα\nμέχρι που σκάλωσα μετά μεγάλωσα\nλαθή που έκανα ποτέ δεν ένιωσα\nκ' ολα τα άφησα\nΠοιά δημοκρατία είναι ολα ψεύτικα μας κοροιδεύουν ολους κανονικά\nέξω απ' την ζωή μας μπάτσοι κόμματα θέλω να τρέξω να φύγω μακριά\nΖωή στην φυλακή\nΝτυμένος στο χακί\nΚαποιές φορές τα παίρνω και γυριζουνέ τα νεύρα μου ανάποδααα\nΚαποιές φορές νομίζω πως με μαχαιρώνουν οι φίλοι μου πισώπλατααα\nemail:   piratescity@hotmail.com\n#piratescity #punkrock\nPirates City\n2011",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Σκούρα Τα Πράγματα",
+                    "track_id": "7g1r8qjdkYdNYAYxcoD831",
+                    "track_number": 2,
+                    "duration_ms": 201091,
+                    "lyrics": "με εβαλαν σε ενα θρανιο για να μαθω πεντε πραγματα\nμα ποσο μαλακες ειναι καταλβα οσο μεγαλωνα\nκαι στις πορειες τα γουρουνια να πουλανε τσαμπουκα\nγια μια σαπια παιδεια μπουρδελοκρατια διχως δικαιωματα\nκαι αν εχεις χασει την μανα η τον πατερα\nαν σε εχουν στησει στον τοιχο και σε βαρανε\nλιγο πιο περα μια ζαλη στον αερα\nσκουρα τα πραγματα λοιπον φιλε μου\nκαι αν εχει αλλαξει η τυχη σου τελευταια\nμην τρομαζεις με κανενα\nτο ξερω δυσκολοι καιροι τελευταια\nσκουρα τα πραγματα λοιπον φιλε μου\nεταιριες λαμογια πολιτικοι να σου τρωνε την ζωη\nομως τους ψηφιζεις καθε μερα τον ταφο σου ανοιγεις",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Το Τραγούδι Του Γκαντέμη Μεθύστακα",
+                    "track_id": "0ez6ootu689ffJVagFdKhv",
+                    "track_number": 3,
+                    "duration_ms": 135707,
+                    "lyrics": "Πάλι κομμάτια γυρίζουμε τα βράδια\nλιώνουμε στις μπύρες και τα ποτά\nπάλι κομμάτια έξω στην Αθήνα\nέχουμε γίνει ντίρλα άλλη μια φορά\nδεν μπορώ όμως να κράτηθω δώστε μου λίγο να πιώ\nέχω μείνει κάγκελό και δεν είμαι καθόλου καλά\nδεν μπορώ άλλο την γκάντεμια και την γλωσσόφαγια\nέχω μείνει κόκκαλο και δεν είμαι καθόλου καλά στα μυαλά\nτα βλέπω θολά και η καρδιά χτυπάει δυνατά γκαντεμιά\nγλώσσοφαγια σκατά έχουμε γίνει\nGalatsi,Athens drunk crew.\nPirates City\n2010-11",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Εγκεφαλική Βλάβη",
+                    "track_id": "59yOjSuNZg2bcmOJ1vOjZr",
+                    "track_number": 4,
+                    "duration_ms": 154175,
+                    "lyrics": "και περνατε ολοι με ενα τουπε και νομιζετε πως ειστε καποιοι\nκαι κοιταζω το κεφαλι σου νομιζω υπαρχει καποια βλαβη\nποσα χρονια βλεπω γυρω μου ποσους ψευτες και υποκριτες\nκαι το παιζει αλητεια και ο δικος σου ο χλεχλες\nοχι δεν αντεχω αλλο πια ειστε ενα ματσο χαλια\nολα απανω σας ειναι ψευτικα\nσας σιχαθηκα\nμου την δινει που δεν μου μιλας, ποσα χρονια εχουνε περασει\nμου την δινει οταν με κοιτας , δεν μου λες ποτε (τι) σου  συμβαινει\nκαι οταν καποιους τους χρειαζεσαι παντα σου γυριζουνε την πλατη\nγεγονοτα  που περασανε καταστασεις με εχουνε ξεκανει",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Το θύμα",
+                    "track_id": "2CAIahXAWCWKlrPfYsX5JQ",
+                    "track_number": 5,
+                    "duration_ms": 158825,
+                    "lyrics": "μπαινω στο ΤΕΙ και βλεπω ενα σωρο μαλακισμενα που το μονο θεμα που τους νοιαζει ειναι τα παρτυ και οι εκλογες αφισοκολλησεις πολλες\nμπαινω στη βουλη και βλεπω ενα τσουρμο μαλακες που λενε παπατζες και απεξω οι μπατσοι να τους φυλανε και αναρωτιεμαι το γιατι\nκαψτε την βουλη και τους πολιτικους μαζι\nκαψτε την βουλη και ολους τους μπασταρδους μαζι\nκαψτε τα ΤΕΙ και ολα τα κομματοσκυλα\nκαψτε την βουλη να παει να γαμηθει\nκαι ολα αυτα μου θυμιζουν πως ειμαι ενα θυμα πως ειμαι ενας αχρηστος και εγω βλεπω ψευτες λαμογια εικονες απατες ολα για το ρευστο και συχαινομαι την ζωη μου την ψοφια τιμη μου τη χωρα που ζω και μου 'ρχεται φορα να παρω και να φουνταρω μα την χαρη δεν τους κανω εγω\nemail:   piratescity@hotmail.com\nPirates City 2010-11",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Καλοκαίρι",
+                    "track_id": "1qOtKT5AVFKwpZBpaZ5Vsx",
+                    "track_number": 6,
+                    "duration_ms": 180742,
+                    "lyrics": "το κοριτσι που μενει στο πιο πανω στενο εχει φυγει χρονια εχω να την δω\nστα σκαλακια που γελουσαμε μαζι ειναι εδω η τζαμπα προσπαθω\nκ' ολο φευγεις εξαφανιζεσαι και χωριζεις παλι μου κρυβεσαι\nκ' ολο κλαις μα παλι πισω του γυρνας ομως τα μουτρα σου θα φας\nκαι αρπαζω την κιθαρα παιρνουμε και τις βαλιτσες\nφευγω παω για μπανακια ιστοριες και αναμνησεις\nανοιγω το ψυγειο και πινω δυο μπυρες\nκαλοκαιρι και εχω χρονια να σε δω\nκαλοκαιρι μεθυσμενος παραπατω\nστα νησακια σαν ενα ονειρο τρελο\nειμαι αλλου σου λεω σ'αλλη διασταση το ομολογω\nοοο ολοι με φωναζουνε τρελο\nοοο ειμαι πειραγμενος στο μυαλο\nοοο και ολη την ωρα τραγουδαμε\nπινουμε γλενταμε ξενυχταμε\nμε κοιτας φευγεις μακρια μου και εσυ\nμε φιλας την κανεις για το νησι\nκαι στιγμες που περασαμε μαζι\nενα ταξιδι ολη σου η ζωη\nPirates City\n2011",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Όλα Διαφορετικά",
+                    "track_id": "4YTTmhCe9tOOi9fCgNESa2",
+                    "track_number": 7,
+                    "duration_ms": 199733,
+                    "lyrics": "καθομαι και παιζω το πουλι μου ολη την ημερα\nσκεφτομαι τι να κανω αλλη μια σαπια μερα\nλιωνω στην TV στο στοιχημα στο facebook στο myspace\nειμαι τα λεφτα τους και μετα μαμ φαι κακα και νανι\nκαι τι να πω ειμαι ενας αθλιος υπαλληλος και εγω\nκαι δεν ζω δεν βγαινω εξω δεν γελαω ουτε λεπτο\nσε στιγμες που την ζωη μου αλλη κυβερνανε\nσε ενα κοσμο που δεν εχουν μαθει να αγαπανε\nολα αυτα ολα αυτα να 'ταν διαφορετικα\nμας λενε ειστε και εσεις πιονια της ντροπης\nσε κλουβια ειμαστε μεσα στα pc σε μια κοινωνια κλειστη\nκαι μας ελεγχουν μας φυλακιζουν τους πληρωνουμε δεν μας αφηνουν\nΠειρατές 2010-11",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Τρόπος Ζωής",
+                    "track_id": "0bee22bYVKfnl1hAQXdiJT",
+                    "track_number": 8,
+                    "duration_ms": 106058,
+                    "lyrics": "ειμαι αυτος που ειμαι\nκανω αυτο που θελω\nδεν με νοιαζει για κανενα σας μουνια\ngraffiti στους δρομους\nskate στις πλατειες\nμουσικη και μπυρες\nδικες μας ιστοριες\nφευγω μονος περπατω βαφω πινω και μεθω\nσε μια χαμενη ζωη χαμενη ευκαιρια\nφευγω μονος τριγυρνω δεν σταματω να τραγουδω\nσε μια αδεια πλατεια\nδιχως ονειρα και ελπιδες για μενα\nολα γυρω μου σκατα μεσ ' την μιζερια\nοοο ετσι ειναι ο τροπος ζωης μου x2\nτι σε νοιαζει εσενα\nτι μου αρεσει εμενα\nτρυπημενη μυτη\nκαι tatoo στο δερμα\nπες μου ποσα παιρνεις\nγια την δουλεια που κανεις?\nεισαι ενα σκουληκι\nπεριμενεις να πεθανεις\nΠειρατες 2010-11",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Συγχαρητήρια Στην Ανθρωπότητα",
+                    "track_id": "0a2pCtJPcNeRGYzJSryJ2r",
+                    "track_number": 9,
+                    "duration_ms": 165068,
+                    "lyrics": "Και γεννήθηκα πια μεγάλωσα\nσε ενα κόσμο που ποτέ δεν άλλαξα\nστο σχολείο μόνος μου έπαιζα\nμε τους φίλους μου ονειρευόμουνα\nκαι μια ανθρωπότης με αινίγματα\nμπόλικοι φτωχοί πολλά τα θύματα\nκαι μου λενε πόσο μεγάλωσα\nσε ενα κόσμο βράδια που έκλαψα\nααα, Κάποτε ήμουνα 16\nααα, Πως βαριόμουνα στην τάξη\nααα, Συγχάρητηρια\nααα, Στην ανθρωπότητα\nΔέντρα ζώα δάση που καίγονται\nμια πόλη που όλο φλέγεται\nκόμματα θρησκείες μας φάγανε\nμε την δύναμη που τους δώσατε\nγια σένα ουρλιάζω μωρό μου\nγια να μην φτάσεις πιο κάτω\nγια σένα ουρλιάζω μαλάκα\nγια να μην φτάσεις στον πάτο",
+                    "lyrics_source": "cache"
+                },
+                {
+                    "track_name": "Φεγγαρόσκυλος",
+                    "track_id": "5Jc5P3tZ3Z97XknG02gZu4",
+                    "track_number": 10,
+                    "duration_ms": 160575,
+                    "lyrics": "No lyrics found for this track.",
+                    "lyrics_source": "none"
+                }
+            ]
+        },
+        {
+            "album_name": "Ρόστερ",
+            "album_id": "3VjHKhbpe2r2edUspdNgX1",
+            "release_date": "2025-07-01",
+            "total_tracks": 1,
+            "tracks": [
+                {
+                    "track_name": "Ρόστερ",
+                    "track_id": "01qgnlHHWDxaGbeIf3HpFf",
+                    "track_number": 1,
+                    "duration_ms": 178310,
+                    "lyrics": "Να κοιμηθούν καπάκια να σηκωθούν να μην ζητάνε κάτι\nμόνο αλκοόλ αυτογκόλ θα βγουνε παραγάδι, κάθε πρωί συνέχεια κυκλοφορούν\nδεν έχουνε ανάγκη και ο Ρανταπλαν της γειτονιάς τα καταδιώκει πάλι\n'Ετοιμο το ρόστερ\nΚαλύψαμε τα μούτρα μας  με φούτερ\nΠάλι μας κυνηγάει η αστυνομία\nΡουφάμε οτι βρούμε με μανία\nκατούρημα έξω από την εφορία\nΜετά αγκαλιά μέσα στα νεκροταφεία\nΦίλοι που φεύγουνε και άλλοι μένουν και λιγο παραπέρα μια κυρία σε σοκ\nΈνα  αντρόγυνο σε σοκ\nΕίναι παράνομο μα το ζητώ\nΕίναι Αβάσταχτο το ροκ εν ρολ\nΕίναι ανώφελο και ανήθικο\nΤι συμβαίνει με αυτά τα παιδιά\nΣτην γειτονια πηδάνε μάντρες σπάνε ολα τα τζάμια τι συμβαίνει μου λες δικαιολογίες φτηνές πολλές  βάψανε πάλι όλη την Αλεξάνδρας\nΠΕΙΡΑΤΕΙΑ CREW\n2025-26",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Γκέτο",
+            "album_id": "4h5ZR0ZK8juegbKBeBJtZp",
+            "release_date": "2025-03-04",
+            "total_tracks": 1,
+            "tracks": [
+                {
+                    "track_name": "Γκέτο",
+                    "track_id": "2XWJClnCzjGdTe9jadlprr",
+                    "track_number": 1,
+                    "duration_ms": 196941,
+                    "lyrics": "Στα παράνομα μηνύματα στο κινητό\nΝαρκωτικά μέσα στο άσπρο σου αυτοκίνητο\nΣε μαζεύουν κάθε χρόνο απ’τα επείγοντα να σκεπάζεις τα σημάδια από τα σύνορα\nΠιτσιρικάδες μπαινοβγαίνουνε στα γήπεδα\nΑνήλικα τζογάρουν βαρετά απογεύματα\nΠαίζουν την τύχη τους σε άδεια προπατζιδικα\nΚαι παίρνουν δωρα πλαστικά από περίπτερα\nΕίναι 6 το πρωί κρατιέμαι απ το χερούλι\nΣε ένα σάπιο λεωφορείο γεμάτο ασφυκτικά\nκουρασμένα πρόσωπα χνώτα θολά τα τζάμια μέσα εδώ οι σκλάβοι έξω στα τζιπ τα αφεντικά\nΕίναι 6 το πρωί με στραβωμένη μούρη\nΣε μια ρουτίνα γαμημενη μεσοβδόμαδα\nΣκληρά τα σκηνικά μου πέφτει κάτω το σαγόνι\nΓύρω όλοι κουμπωμένοι με χάπια και Ηρεμιστικά\nΣτην άδεια πόλη τερματίζω την ταχύτητα\nΡίχνω κλέφτες ματιές μπροστά απο ένα σύνθημα\nΣτο κράσπεδο σκισμένα φρύδια ροζ ταινίες\nΣε ένα σπίτοπαρτο με πιάνουν αριθμιες\nΚυκλοφορείς μές’το διαμέρισμα τρομάζεις\nΚρύος ιδρώτας πέφτει κάτω καταρράκτης\nΑπό την μεριά μου το βουλώσαμε για σένα\nΜπήκανε μέσα την συλλάβανε στο αίμα\nemail: piratescity@hotmail.com\n#piratescity  #πειρατεία\nPirates City / 15 ΧΡΟΝΙΑ ΠΕΙΡΑΤΕΙΑ\n2010-2025",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Ντελίριο",
+            "album_id": "3hAGyw0JdFyWTqNfnPZMNU",
+            "release_date": "2024-03-15",
+            "total_tracks": 1,
+            "tracks": [
+                {
+                    "track_name": "Ντελίριο",
+                    "track_id": "43vEJu8TBBoIHv2qrmyE4Z",
+                    "track_number": 1,
+                    "duration_ms": 210709,
+                    "lyrics": "Θα ψάχνεις εμένα κ όλη την παρέα, μέσα στα  Εξάρχεια\nΘα ψάχνεις θυμήσου δεν είμαι εχθρός σου, μα σε κυνήγησα\nΘα ζητάς πάλι χάδια μνμ χάλια, ήταν υπέροχα\nκαι είναι αλήθεια σε αυτά τα ξενύχτια, σε αναζήτησα\nΦεύγω μακριά\nΑπό τον Βόλο μια φρίκη\nΣου είπα ψέματα\nΩς την Θεσσαλονίκη\nΉθελα πολλά\nΜα μαζί σου τα χάνω\nΈχω τρελαθεί\nΠου άλλον παριστάνω\nΕίσαι εσύ, στο κομμάτι που για σένα έχω γράψει\nστο τζιν τόνικ που την νύχτα μου θα αλλάξει\nπου σε βρίσκω την Παρασκευή το βράδυ\n3 ζακέτες, 2 κουκούλες και είναι εντάξει\nτο κρασί και η μυρωδιά από χειμώνα\nκαθορίζουν τις στιγμές μας μέχρι τώρα\n(Έχω εσένα)\nΣε ενα καινούργιο χορό πως τον είχα φανταστεί\n(Έχω εσένα)\nκαι όλα τα θέλω μου που ένα ένα έκανα πράξη\n(Έχω εσένα)\nΛίγο πιο κοντά, κράτα το χέρι μου σφιχτά\n(Έχω εσένα)\nπάρε τον πόνο που βαθιά μέσα μου έχω θάψει\nΣε αυτό το βράδυ που κοιμήθηκα στον Πύργο τον Λευκό\nκαι να χαζεύω να γελάω δίπλα απ'τον Θερμαικό\nθέλω πλάι να χορεύουμε στον ίδιο σκοπό τα βηματά και ας ξεχνάω και ας παραπατώ μες το ντελίριο αυτό δεν θα σου πώ τι θα συμβεί η τελευταία και η πρώτη σκέψη πάντα\nΕίσαι εσύ\nPirates City & Ted Red Light 2024\nRecording at Lichnopolis Studio\nby Nick Halkousis\nΜοντελ - Eva",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Νύχτες Με Παρέες",
+            "album_id": "70KoOMVGIW1Foba2cqwQKA",
+            "release_date": "2017-08-11",
+            "total_tracks": 1,
+            "tracks": [
+                {
+                    "track_name": "Νύχτες Με Παρέες",
+                    "track_id": "1zgEkO27V4ybe3aLYoztb0",
+                    "track_number": 1,
+                    "duration_ms": 200613,
+                    "lyrics": "Τις νύχτες ταξιδεύουμε ταράτσα σε ταράτσα\nμε ούρλιαχτα γυρίζουμε στην νυσταγμένη πιάτσα\nστους δρόμους περιφέρομαι στην κουρασμένη πόλη\nτα βράδια θα ακούμε μελωδίες στο κατώφλι\nΘέλω ενα χορό\nμαζί σου να αφεθώ\nσ'αυτό τον πανικό\nδυο σκιές χορεύουν ροκ εν ρολ\nτο βινύλιο γυρνάει\nενα κουνούπι τσιμπάει\nη ζέστη στα σκάει\nμια καρδιά πέφτει απο το μπαλκόνι και σπάει\nξαπλώστρες στην αυλή  κοκτέιλ με ρακές\nσταγόνες air Condition  πανσέληνος και καις\nθυμίζουν καλοκαίρι νότες και στιγμές\nσε ψάχνω δεν σε βρίσκω που χάθηκες μου λές?\nΘέλω ενα χορό\nμαζί σου να αφεθώ\nμ'αυτό τον μορφασμό όταν γελάς\nπαθαίνω πανικό\nένας γρύλος στο πλάϊ\nμια πεταλούδα πετάει\nη ζέστη βαράει\nμια στιγμή μαζί σου και όπου πάει...\nemail: piratescity@hotmail.com\n#piratescity #nixtesmeparees #acoustics",
+                    "lyrics_source": "cache"
+                }
+            ]
+        },
+        {
+            "album_name": "Ηλίθιο Χαμόγελο",
+            "album_id": "5RbbMq9PqFBzqtoemoC8Pf",
+            "release_date": "2017-02-13",
+            "total_tracks": 1,
+            "tracks": [
+                {
+                    "track_name": "Ηλίθιο Χαμόγελο",
+                    "track_id": "5F4yFFk2iw61Ywdd6w3DkI",
+                    "track_number": 1,
+                    "duration_ms": 118440,
+                    "lyrics": "Μες στο μυαλό μου δεν υπάρχει πια καμία\nΤραγική η ειρωνία, μια χωρίζεις μια υπάρχεις\nΕποχές με διακυμάνσεις, μα εχω φύγει και είμαι αλλού\nΗ γέννηση ενός τρελού και τα δάκρυα κάθε βράδυ\nΤαξιδεύουν να σε βρουν\nΧαμογελάω πέφτω κάτω, το καθρέπτη μου κοιτάζω\nΜεγαλώνω και τρομάζω, μα έχω μάθει να αγαπάω\nΈνα κόσμο που αλλάζει, κάποιος πάτησε το γκάζι\nΚαι μας έχουνε ριμάξει, μία μέρα θα εκραγώ\nΌμως να το ξέρεις, όταν γυρίζω στα νησιά\nΣτις βουκαμβίλιες θα χορεύεις\nΚι όταν θα υποφέρεις μια μουσική θα σ' ανεβάζει\nΏστε βαθιά να ανασαίνεις\nΚοιτάζω, μια άδεια πόλη\nΚαι μου θυμίζει πως κάποτε χορεύαμε όλοι\nΤώρα που ο ήλιος δύει\nΣαββατοκύριακα περνάνε και όλο κάτι λείπει\n",
+                    "lyrics_source": "cache"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "total_tracks": 55,
+        "spotify_lyrics": 0,
+        "youtube_lyrics": 0,
+        "cache_hits": 52,
+        "no_lyrics": 3,
+        "errors": 0
+    }
+}
